@@ -2,3 +2,5 @@ Hello world!
 New line!
 
 We added this text on our local machine.
+
+We added this using the command line.
